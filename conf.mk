@@ -1,4 +1,2 @@
 GO	:= go
-GFLAGS	:=
-
-
+GOFLAGS	:= build
